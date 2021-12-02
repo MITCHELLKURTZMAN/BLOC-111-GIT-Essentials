@@ -1,6 +1,5 @@
 # BLOC-111-GIT-Essentials
 
-<<<<<<< HEAD
 New branch file
 =======
 ### Editing for testing
