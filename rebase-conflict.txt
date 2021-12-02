@@ -1,4 +1,4 @@
-
+(edited for rebase conflict)
 Line 1 by github
 Line 2 by github
 Line 3 by github
